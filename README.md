@@ -18,12 +18,12 @@ Todo-App es una aplicación de gestión de tareas que permite a los usuarios cre
 - PHP >= 7.4
 - Composer
 - MySQL
-- Node.js y npm (opcional, si se utiliza frontend)
+- Node.js y npm
 
 ## Instalación
 
 1. Clona el repositorio:
 
    ```sh
-   git clone https://github.com/tu-usuario/todo-app.git
+   git clone https://github.com/JuanCruz21/Todo-App.git
    cd todo-app
